@@ -1,0 +1,15 @@
+Lista de comandos
+
+busca en youtube -- abre youtube con la coincidencia
+busca en spotify -- abre spotify con la coincidencia
+busca en wikipedia -- abre wikipedia con la coincidencia
+
+busca en interner -- abre el navegador en google
+dime un chiste -- cuenta un chiste
+
+abre facebook -- abre la pagina web de facebook
+abre whatsapp -- abre la pagina web de whatsapp 
+
+dime la hora -- dice la hora actual
+que dia es hoy -- dice la fecha del dia
+
